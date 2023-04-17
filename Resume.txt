@@ -1,0 +1,11 @@
+API in NodeJS, based on the Express framework to handle requests and send responses to endpoints.
+
+Using MongoDB as a database, but with the Mongoose ODM.
+
+Operations performed in MongoDB Atlas.
+
+The package used was Nodemon to update the code in real time.
+
+and the API was tested in Postman software.
+
+In this API, basically, you can insert, update, delete.
